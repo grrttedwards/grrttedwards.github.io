@@ -16,10 +16,10 @@ text-align:center;
 padding-top: 0.33em;
 } 
 a {
-color: #F2D3F2
+color: #E790E7
 }
 a:visited {
-color: #F2D3F2
+color: #E790E7
 }
 a:hover {
 color: #F2D3F2;
@@ -37,11 +37,15 @@ p {
 	margin-left:20px;
 	margin-right:20px;
 }
+h1 {
+margin: initial;
+margin: 0.2em;
+} 
 }
 
 #paper {
 background-color: #fff;
-width:100%;
+width:90%;
 height:40%;
 max-width:800px;
 margin:0 auto;
