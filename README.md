@@ -2,4 +2,4 @@
 
 Nothing more than a simple landing page for my personal links.
 
-I hope you like the color scheme, I spent years perfecting it.
+I hope you like the color scheme, I spent *years* perfecting it.
