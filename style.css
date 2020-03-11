@@ -75,7 +75,9 @@ a:hover {
     margin-right:50px;
     text-align:right;
 }
-.bottom {
+.spaced {
     margin-top: 40px;
+}
+.bottom {
     padding-bottom: 1em;
 }
