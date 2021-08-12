@@ -81,3 +81,33 @@ a:hover {
 .bottom {
     padding-bottom: 1em;
 }
+
+@media (prefers-color-scheme: dark) {
+
+    @keyframes fadein {
+        from { 
+            opacity: 0; 
+            transform: scale(1.1, 1.1);
+            box-shadow: 50px 50px 50px rgb(36, 36, 36);
+        }
+    }
+
+    body {
+        background-color: #4e4452;
+        color: #252525;
+    }
+    h1 {
+        color: #252525;
+    } 
+    a {
+        color: #773277
+    }
+    a:visited {
+        color: #773277
+    }
+
+    #paper {
+        background-color: rgb(129, 129, 129);
+        box-shadow: 10px 10px 25px rgb(36, 36, 36);
+    }
+}
